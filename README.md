@@ -59,6 +59,7 @@ TalkSpark tries to define a repeatable script production process:
 - find the real claim
 - sharpen the first sentence
 - make abstract ideas visible
+- verify real-world factual anchors when the script mentions people, companies, products, or recent events
 - remove teacher tone and marketing tone
 - format the result for actual short video use
 
