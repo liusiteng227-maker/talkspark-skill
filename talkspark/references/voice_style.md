@@ -42,7 +42,7 @@ Bad:
 
 Use real details when provided by the user.
 
-If the user says they opened Codex, ChatGPT, and Claude, keep those names.
+If the user gives specific tool names, such as ChatGPT, Claude, Gemini, Kimi, Cursor, or an AI coding assistant, keep those names.
 
 If the user did not provide a personal scene, do not invent "有一次我..." stories. Use a plausible shared scene:
 
@@ -94,4 +94,3 @@ Use naturally, not all at once.
 - 它不是X, 它是Y
 - 所以我现在越来越觉得
 - 如果你也有这个感觉
-
