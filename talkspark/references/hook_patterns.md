@@ -47,7 +47,7 @@ Pattern:
 Example:
 
 ```text
-前两天晚上, 我开着Codex、ChatGPT和Claude, 盯着输入框发呆, 然后突然意识到一个很尴尬的事。
+前两天晚上, 我开着ChatGPT和Claude, 旁边还有一个能写代码的AI助手, 盯着输入框发呆, 然后突然意识到一个很尴尬的事。
 ```
 
 ## 4. Recognizable Name First
@@ -88,4 +88,3 @@ Example:
 - Can the target viewer decide within 2 seconds whether to continue?
 - Is there a small tension, reversal, or curiosity gap?
 - Is it speakable without sounding like a title?
-
