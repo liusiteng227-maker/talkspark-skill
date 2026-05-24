@@ -1,0 +1,4 @@
+interface:
+  display_name: "TalkSpark"
+  short_description: "Chinese talking-head script skill"
+  default_prompt: "Turn this idea into a strong Chinese talking-head short video script."
