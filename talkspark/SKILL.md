@@ -30,7 +30,7 @@ The goal is not to write beautiful prose. The goal is to make a viewer stop, und
 
 4. Make every abstract claim visible.
    - Use a specific scene, action, object, line, or moment.
-   - Prefer "I opened Codex and stared at the input box" over "AI improves productivity."
+   - Prefer "I opened an AI assistant and stared at the input box" over "AI improves productivity."
    - Prefer "买了会员, 收藏了一堆提示词, 真到工作里还是不用" over "usage barriers remain high."
 
 5. Write in one spoken flow.
@@ -81,7 +81,7 @@ Choose one primary hook:
 
 - 人群锁定, "如果你也买了AI会员但一直用不起来..."
 - 反常识判断, "AI时代最占便宜的人, 可能不是最懂技术的人..."
-- 具体场景, "我昨天晚上开着Codex和ChatGPT, 盯着输入框发呆..."
+- 具体场景, "我昨天晚上开着ChatGPT和Claude, 盯着输入框发呆..."
 - 情绪切口, "这件事我越想越不对劲..."
 - 热点入口, "这两天大家都在聊X, 但我觉得真正值得看的不是X..."
 - 明星/作品入口, "王安宇这次在X里最有意思的地方不是帅..."
