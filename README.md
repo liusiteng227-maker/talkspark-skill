@@ -1,6 +1,6 @@
 # TalkSpark
 
-TalkSpark is a Codex skill for Chinese talking-head short video scripts.
+TalkSpark is an open AI skill for Chinese talking-head short video scripts.
 
 It turns rough ideas, briefs, observations, and spoken notes into natural one-take scripts with strong first-second hooks, concrete scenes, low marketing tone, low teacher tone, and usable publishing metadata.
 
@@ -13,15 +13,19 @@ It turns rough ideas, briefs, observations, and spoken notes into natural one-ta
 - 真人出镜短视频文案
 - Turning scattered notes into a speakable script
 
-## Install
+## Use
 
-Copy the `talkspark` folder into your Codex skills folder:
+You can use TalkSpark in any AI assistant that can follow a structured instruction file.
+
+For skill-folder systems, copy the `talkspark` folder into your assistant's skills folder:
 
 ```bash
-cp -R talkspark ~/.codex/skills/
+cp -R talkspark /path/to/your/skills/
 ```
 
-Then ask Codex for tasks like:
+For ChatGPT, Claude, Gemini, Kimi, or other LLMs, paste `talkspark/SKILL.md` first, then add the relevant reference files when needed.
+
+Example:
 
 ```text
 $talkspark
