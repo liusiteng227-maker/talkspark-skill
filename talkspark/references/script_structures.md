@@ -30,7 +30,7 @@ Flow:
 1. Small real usage scene.
 2. The mismatch, tool is strong but person is stuck.
 3. Reframe, the issue is task design, taste, context, or judgment.
-4. Examples using concrete tool names, such as Codex, ChatGPT, Claude, Gemini, Kimi, Notion.
+4. Examples using concrete tool names, such as ChatGPT, Claude, Gemini, Kimi, Notion, Cursor, or an AI coding assistant.
 5. Practical starting point.
 6. Bigger thought, what this changes about work or creativity.
 
@@ -92,4 +92,3 @@ Separate by:
 - Viewer identity, fans, general audience, professionals, parents, creators.
 
 Do not merely replace synonyms.
-
