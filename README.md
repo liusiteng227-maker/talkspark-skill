@@ -60,4 +60,6 @@ TalkSpark tries to define a repeatable script production process:
 
 ## License
 
-MIT
+Unlicense.
+
+You can download, copy, modify, redistribute, and use this skill freely. Attribution is not required.
