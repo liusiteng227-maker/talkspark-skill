@@ -1,6 +1,6 @@
 ---
 name: talkspark
-description: Use when creating, rewriting, or polishing Chinese talking-head short video scripts, 口播稿, 真人出镜短视频文案, 观点口播, 热点口播, 广告口播, AI认知口播, or turning rough spoken ideas into a publishable one-take script. Trigger when the user says things like 写口播, 改成口播稿, 来活儿了, 短视频文案, 真人出镜, 发布文案, 预计口播, or gives a loose idea and wants it turned into a natural spoken script. Prioritize first-second hooks, concrete scenes, human rhythm, low marketing tone, low teacher tone, and output with word count, estimated speaking time, title, and posting copy unless the user asks for only the script.
+description: Use when creating, rewriting, or polishing Chinese talking-head short video scripts, 口播稿, 真人出镜短视频文案, 观点口播, 热点口播, 广告口播, AI认知口播, or turning rough spoken ideas into a publishable one-take script. Trigger when the user says things like 写口播, 改成口播稿, 来活儿了, 短视频文案, 真人出镜, 发布文案, 预计口播, or gives a loose idea and wants it turned into a natural spoken script. Prioritize first-second hooks, concrete scenes, human rhythm, low marketing tone, low teacher tone, fact-checking for real people, companies, products, hot topics, and recent events, and output with word count, estimated speaking time, title, and posting copy unless the user asks for only the script.
 ---
 
 # TalkSpark
@@ -23,22 +23,30 @@ The goal is not to write beautiful prose. The goal is to make a viewer stop, und
    - If the user rambles, preserve the freshest phrase and cut the polite filler.
    - If the idea is too big, shrink it to one speakable claim.
 
-3. Build the first 3 seconds.
+3. Verify factual anchors when needed.
+   - If the script mentions real people, companies, products, public disputes, rankings, dates, financing, lawsuits, launches, or recent events, verify before writing.
+   - Check at least 2 reliable sources when the claim is public and fact-sensitive.
+   - Separate verified facts, user opinions, and inference. Do not present opinion as fact.
+   - If browsing or source access is unavailable, say so briefly and write only from user-provided facts, using softer wording.
+
+Read `references/fact_check.md` when the request depends on real-world facts, public figures, companies, or current events.
+
+4. Build the first 3 seconds.
    - Lock the target audience immediately.
    - Put the recognizable name, project, topic, pain, or identity early.
    - Make one short judgment, tension, or reversal.
 
-4. Make every abstract claim visible.
+5. Make every abstract claim visible.
    - Use a specific scene, action, object, line, or moment.
    - Prefer "I opened an AI assistant and stared at the input box" over "AI improves productivity."
    - Prefer "买了会员, 收藏了一堆提示词, 真到工作里还是不用" over "usage barriers remain high."
 
-5. Write in one spoken flow.
+6. Write in one spoken flow.
    - For finished scripts, default to one paragraph with no blank lines.
    - Keep sentences short enough to speak.
    - Use natural spoken turns, but do not overdo internet slang.
 
-6. End with usable metadata unless the user asks otherwise.
+7. End with usable metadata unless the user asks otherwise.
    - 字数
    - 预计口播
    - 标题
@@ -106,6 +114,7 @@ Read `references/script_structures.md` when choosing a structure for a specific 
 Before finalizing, quickly check:
 
 - First second, can the target viewer tell this is for them?
+- Facts, are real people, companies, dates, events, and public claims verified or softened?
 - Specificity, are there scenes, objects, names, or actions?
 - Speakability, can a person say this without sounding like reading a report?
 - Density, does each sentence move the idea, emotion, or example forward?
