@@ -1,0 +1,29 @@
+{
+  "name": "talkspark-skill",
+  "version": "0.4.0",
+  "private": false,
+  "description": "Open AI skill for Chinese talking-head short video scripts.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate_bundle.js",
+    "duration": "node talkspark/scripts/estimate_duration.js"
+  },
+  "keywords": [
+    "ai-skill",
+    "chatgpt",
+    "codex",
+    "chinese",
+    "short-video",
+    "scriptwriting",
+    "talking-head"
+  ],
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liusiteng227-maker/talkspark-skill.git"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
